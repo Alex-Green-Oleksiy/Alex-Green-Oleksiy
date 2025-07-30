@@ -5,12 +5,12 @@
 ## 📋 Як внести свій внесок
 
 ### 1. Форк репозиторію
-1. Перейдіть на [GitHub репозиторій](https://github.com/Алекс-Грін-Олексій/Алекс-Грін-Олексій)
+1. Перейдіть на [GitHub репозиторій](https://github.com/Alex-Green-Oleksiy/Alex-Green-Oleksiy)
 2. Натисніть кнопку "Fork" у правому верхньому куті
 3. Клонуйте ваш форк локально:
    ```bash
-   git clone https://github.com/your-username/Алекс-Грін-Олексій.git
-   cd Алекс-Грін-Олексій
+   git clone https://github.com/your-username/Alex-Green-Oleksiy.git
+   cd Alex-Green-Oleksiy
    ```
 
 ### 2. Створення гілки
@@ -124,8 +124,8 @@ export default MyComponent;
 4. **Додатковий контекст** - скріншоти, приклади
 
 ## 📞 Зв'язок
-- **Issues:** [GitHub Issues](https://github.com/Алекс-Грін-Олексій/Алекс-Грін-Олексій/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/Алекс-Грін-Олексій/Алекс-Грін-Олексій/discussions)
+- **Issues:** [GitHub Issues](https://github.com/Alex-Green-Oleksiy/Alex-Green-Oleksiy/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/Alex-Green-Oleksiy/Alex-Green-Oleksiy/discussions)
 - **Email:** your.email@example.com
 
 ## 🙏 Подяка

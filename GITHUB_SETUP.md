@@ -6,7 +6,7 @@
 
 1. **Перейдіть на GitHub** та увійдіть у свій акаунт
 2. **Створіть новий репозиторій** з назвою точно як ваш username:
-   - Назва: `Алекс-Грін-Олексій`
+   - Назва: `Alex-Green-Oleksiy`
    - Опис: `Frontend Developer | UI/UX Specialist`
    - Публічний репозиторій ✅
    - НЕ додавайте README (ми створимо свій)
@@ -24,7 +24,7 @@ git add .
 git commit -m "feat: initial profile setup"
 
 # Додайте віддалений репозиторій
-git remote add origin https://github.com/Алекс-Грін-Олексій/Алекс-Грін-Олексій.git
+git remote add origin https://github.com/Alex-Green-Oleksiy/Alex-Green-Oleksiy.git
 
 # Завантажте на GitHub
 git branch -M main

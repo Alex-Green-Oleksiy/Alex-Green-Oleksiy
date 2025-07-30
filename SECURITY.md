@@ -11,7 +11,7 @@
 
 ## Повідомлення про вразливості
 
-Якщо ви виявили вразливість безпеки, будь ласка, повідомте нас через [GitHub Security Advisories](https://github.com/Алекс-Грін-Олексій/Алекс-Грін-Олексій/security/advisories).
+Якщо ви виявили вразливість безпеки, будь ласка, повідомте нас через [GitHub Security Advisories](https://github.com/Alex-Green-Oleksiy/Alex-Green-Oleksiy/security/advisories).
 
 **Будь ласка, НЕ створюйте публічні GitHub issues для вразливостей безпеки.**
 
@@ -64,7 +64,7 @@
 ## Контакти
 
 - **Email:** your.email@example.com
-- **GitHub Security:** [Security Advisories](https://github.com/Алекс-Грін-Олексій/Алекс-Грін-Олексій/security/advisories)
+- **GitHub Security:** [Security Advisories](https://github.com/Alex-Green-Oleksiy/Alex-Green-Oleksiy/security/advisories)
 - **PGP Key:** [Додати ваш PGP ключ]
 
 ## Подяки

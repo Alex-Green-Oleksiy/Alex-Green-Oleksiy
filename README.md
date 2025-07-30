@@ -14,8 +14,8 @@
 
   <!-- Статистика GitHub -->
   <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 30px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Алекс-Грін-Олексій&show_icons=true&theme=default&bg_color=ffffff&text_color=333333&icon_color=1e3c72&border_color=e1e4e8&hide_border=false" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Алекс-Грін-Олексій&theme=default&background=ffffff&stroke=1e3c72&ring=1e3c72&fire=ff6b6b&currStreakNum=333333&sideNums=333333&currStreakLabel=666666&sideLabels=666666&dates=999999" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Alex-Green-Oleksiy&show_icons=true&theme=default&bg_color=ffffff&text_color=333333&icon_color=1e3c72&border_color=e1e4e8&hide_border=false" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-Green-Oleksiy&theme=default&background=ffffff&stroke=1e3c72&ring=1e3c72&fire=ff6b6b&currStreakNum=333333&sideNums=333333&currStreakLabel=666666&sideLabels=666666&dates=999999" alt="GitHub Streak" />
   </div>
 
   <!-- Технології -->
