@@ -37,7 +37,7 @@ Passionate frontend developer with expertise in modern web technologies. Focused
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Green-Oleksiy&layout=compact&theme=dark&bg_color=1A1A1A&text_color=FFFFFF&border_color=333333)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Alex-Green-Oleksiy&theme=dark&background=1A1A1A&stroke=61DAFB&ring=61DAFB&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=CCCCCC&sideLabels=CCCCCC&dates=999999)
+
 
 ## Activity Graph
 
