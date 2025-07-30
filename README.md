@@ -1,20 +1,20 @@
 <div align="center">
   
-  <!-- Професійний банер -->
+  <!-- Professional Banner -->
   <div style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); padding: 40px; border-radius: 15px; margin-bottom: 30px; box-shadow: 0 4px 20px rgba(30,60,114,0.3);">
-    <h1 style="color: #ffffff; font-size: 2.5em; font-weight: 300; margin: 0; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">АЛЕКС ГРІН</h1>
+    <h1 style="color: #ffffff; font-size: 2.5em; font-weight: 300; margin: 0; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">ALEX GREEN</h1>
     <p style="color: #ffffff; font-size: 1.1em; margin: 10px 0 0 0; text-shadow: 0 1px 2px rgba(0,0,0,0.3);">FRONTEND DEVELOPER | UI/UX SPECIALIST</p>
   </div>
 
-  <!-- Статистика GitHub -->
+  <!-- GitHub Statistics -->
   <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 30px;">
     <img src="https://github-readme-stats.vercel.app/api?username=Alex-Green-Oleksiy&show_icons=true&theme=default&bg_color=ffffff&text_color=333333&icon_color=1e3c72&border_color=e1e4e8&hide_border=false" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-Green-Oleksiy&theme=default&background=ffffff&stroke=1e3c72&ring=1e3c72&fire=ff6b6b&currStreakNum=333333&sideNums=333333&currStreakLabel=666666&sideLabels=666666&dates=999999" alt="GitHub Streak" />
   </div>
 
-  <!-- Технології -->
+  <!-- Technologies -->
   <div style="margin-bottom: 30px;">
-    <h2 style="color: #1e3c72; text-align: center; font-weight: 500; margin-bottom: 20px;">🛠️ ТЕХНІЧНИЙ СТЕК</h2>
+    <h2 style="color: #1e3c72; text-align: center; font-weight: 500; margin-bottom: 20px;">🛠️ TECH STACK</h2>
     
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 20px;">
       <!-- Frontend Core -->
@@ -62,14 +62,14 @@
 
   </div>
 
-  <!-- Популярні проекти -->
+  <!-- Key Projects -->
   <div style="margin-bottom: 30px;">
-    <h2 style="color: #1e3c72; text-align: center; font-weight: 500; margin-bottom: 20px;">📁 КЛЮЧОВІ ПРОЕКТИ</h2>
+    <h2 style="color: #1e3c72; text-align: center; font-weight: 500; margin-bottom: 20px;">📁 KEY PROJECTS</h2>
     
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 20px;">
       <div style="background: #ffffff; border: 2px solid #61dafb; border-radius: 8px; padding: 25px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
         <h3 style="color: #1e3c72; margin: 0 0 10px 0; font-weight: 500;">ReactHW</h3>
-        <p style="color: #666666; margin: 0 0 15px 0; line-height: 1.5;">Сучасний React додаток з Vite та TypeScript</p>
+        <p style="color: #666666; margin: 0 0 15px 0; line-height: 1.5;">Modern React application with Vite and TypeScript</p>
         <div style="display: flex; gap: 8px; flex-wrap: wrap;">
           <span style="background: #61dafb; color: #ffffff; padding: 4px 12px; border-radius: 12px; font-size: 0.8em; font-weight: 500;">React</span>
           <span style="background: #646cff; color: #ffffff; padding: 4px 12px; border-radius: 12px; font-size: 0.8em; font-weight: 500;">Vite</span>
@@ -78,8 +78,8 @@
       </div>
 
       <div style="background: #ffffff; border: 2px solid #43853d; border-radius: 8px; padding: 25px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-        <h3 style="color: #1e3c72; margin: 0 0 10px 0; font-weight: 500;">Серверна частина</h3>
-        <p style="color: #666666; margin: 0 0 15px 0; line-height: 1.5;">Backend розробка та API інтеграція</p>
+        <h3 style="color: #1e3c72; margin: 0 0 10px 0; font-weight: 500;">Backend Development</h3>
+        <p style="color: #666666; margin: 0 0 15px 0; line-height: 1.5;">Backend development and API integration</p>
         <div style="display: flex; gap: 8px; flex-wrap: wrap;">
           <span style="background: #43853d; color: #ffffff; padding: 4px 12px; border-radius: 12px; font-size: 0.8em; font-weight: 500;">Node.js</span>
           <span style="background: #ff6b6b; color: #ffffff; padding: 4px 12px; border-radius: 12px; font-size: 0.8em; font-weight: 500;">API</span>
@@ -90,9 +90,9 @@
 
   </div>
 
-  <!-- Контакти -->
+  <!-- Contacts -->
   <div style="text-align: center; margin-bottom: 30px;">
-    <h2 style="color: #1e3c72; font-weight: 500; margin-bottom: 20px;">📞 КОНТАКТИ</h2>
+    <h2 style="color: #1e3c72; font-weight: 500; margin-bottom: 20px;">📞 CONTACTS</h2>
     <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
       <a href="mailto:your.email@example.com" style="background: #d14836; color: #ffffff; text-decoration: none; padding: 12px 24px; border-radius: 6px; font-weight: 500; border: 2px solid #d14836;">
         📧 Email
@@ -103,11 +103,11 @@
     </div>
   </div>
 
-  <!-- Футер -->
+  <!-- Footer -->
   <div style="text-align: center; color: #666666; font-size: 0.9em; padding: 20px; background: #f8f9fa; border-radius: 8px; border: 1px solid #e1e4e8;">
-    <p style="margin: 0 0 10px 0;">🎯 Фокус на якість та результат</p>
-    <p style="margin: 0;">🚀 Готовий до нових проектів</p>
+    <p style="margin: 0 0 10px 0;">🎯 Focus on quality and results</p>
+    <p style="margin: 0;">🚀 Ready for new projects</p>
   </div>
 
 </div>
-ввв
+add
