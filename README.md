@@ -39,6 +39,10 @@ Passionate frontend developer with expertise in modern web technologies. Focused
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alex-Green-Oleksiy&theme=dark&background=1A1A1A&stroke=61DAFB&ring=61DAFB&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=CCCCCC&sideLabels=CCCCCC&dates=999999)
 
+## Activity Graph
+
+![Alex's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alex-Green-Oleksiy&theme=dark&bg_color=1A1A1A&color=61DAFB&line=61DAFB&point=FFFFFF&hide_border=true)
+
 ## Featured Projects
 
 ### ReactHW
@@ -73,6 +77,14 @@ Passionate frontend developer with expertise in modern web technologies. Focused
 | TypeScript | Express   | Docker  | Adobe XD          |
 | HTML5/CSS3 | REST APIs | VS Code | Responsive Design |
 | JavaScript | Database  | Webpack | UI/UX             |
+
+## Development Principles
+
+-   🎯 **Clean Code** - Writing maintainable and readable code
+-   🧪 **Testing** - Comprehensive testing strategies
+-   📚 **Documentation** - Clear and thorough documentation
+-   🔄 **Continuous Learning** - Staying updated with latest technologies
+-   🤝 **Collaboration** - Working effectively in team environments
 
 ## Let's Connect
 
