@@ -2,8 +2,12 @@
 
 > Frontend Developer & UI/UX Specialist
 
-<div align="right">
-  <img src="src/img/106L.gif" alt="Developer Animation" width="200"/>
+<div align="center" style="background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); border-radius: 15px; padding: 20px; margin: 20px 0; border: 2px solid #61DAFB; box-shadow: 0 8px 32px rgba(97, 218, 251, 0.3);">
+  <h2 style="color: #61DAFB; margin-bottom: 15px; font-size: 24px; text-shadow: 0 0 10px rgba(97, 218, 251, 0.5);">🚀 Welcome to My GitHub Profile</h2>
+  <p style="color: #ffffff; margin-bottom: 20px; font-size: 16px; opacity: 0.9;">Passionate about creating amazing web experiences</p>
+  <div align="right">
+    <img src="src/img/106L.gif" alt="Developer Animation" width="200" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);"/>
+  </div>
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
