@@ -28,12 +28,6 @@ Passionate frontend developer with expertise in modern web technologies. Focused
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-## GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Alex-Green-Oleksiy&theme=dark&background=1A1A1A&stroke=61DAFB&ring=61DAFB&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=CCCCCC&sideLabels=CCCCCC&dates=999999)
-
-## Featured Projects
-
 
 ## Development Principles
 
