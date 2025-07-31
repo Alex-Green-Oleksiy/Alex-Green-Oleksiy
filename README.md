@@ -1,8 +1,7 @@
-# Alex Green
-
+<h1 style="color: #61DAFB; font-family: 'JetBrains Mono', monospace; font-size: 2.5em; text-align: center; margin: 20px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🚀 Welcome to Alex Green's Profile! 🚀</h1>
 > Frontend Developer & UI/UX Specialist
 
-| <img src="src/img/444.png" alt="Developer Setup" width="800"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | <img src="src/img/106L.gif" alt="Developer Animation" width="250"/> |
+| <img src="src/img/444.png" alt="Developer Setup" width="800"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | <img src="src/img/106L.gif" alt="Developer Animation" width="250"/> |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------: |
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alekseylobkodev@ukr.net) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Alex_Green_dev) [![Portfolio](https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com) |                                                                     |
 
@@ -32,9 +31,7 @@ Passionate frontend developer with expertise in modern web technologies. Focused
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Alex-Green-Oleksiy&theme=dark&background=1A1A1A&stroke=61DAFB&ring=61DAFB&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=CCCCCC&sideLabels=CCCCCC&dates=999999)
 
-
 ## Featured Projects
-
 
 ## Current Focus
 
@@ -60,7 +57,5 @@ Passionate frontend developer with expertise in modern web technologies. Focused
 -   📚 **Documentation** - Clear and thorough documentation
 -   🔄 **Continuous Learning** - Staying updated with latest technologies
 -   🤝 **Collaboration** - Working effectively in team environments
-
-
 
 _Last updated: January 2025_
