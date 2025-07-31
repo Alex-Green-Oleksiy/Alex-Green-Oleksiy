@@ -2,11 +2,11 @@
 
 > Frontend Developer & UI/UX Specialist
 
-| <img src="ChatGPT Image 31 июл. 2025 г., 11_01_00.png" alt="Developer Setup" width="250"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | <img src="src/img/106L.gif" alt="Developer Animation" width="250"/> |
+| <img src="src/img/444.png" alt="Developer Setup" width="250"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | <img src="src/img/106L.gif" alt="Developer Animation" width="250"/> |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------: |
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alekseylobkodev@ukr.net) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Alex_Green_dev) [![Portfolio](https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com) |                                                                     |
 
-## About 
+## About
 
 Passionate frontend developer with expertise in modern web technologies. Focused on creating clean, efficient, and user-friendly applications with a strong emphasis on performance and accessibility.
 
