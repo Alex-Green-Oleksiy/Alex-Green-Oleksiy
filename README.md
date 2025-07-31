@@ -30,25 +30,11 @@ Passionate frontend developer with expertise in modern web technologies. Focused
 
 ## GitHub Stats
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Green-Oleksiy&show_icons=true&theme=dark&bg_color=1A1A1A&text_color=FFFFFF&icon_color=61DAFB&border_color=333333)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Green-Oleksiy&layout=compact&theme=dark&bg_color=1A1A1A&text_color=FFFFFF&border_color=333333)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Alex-Green-Oleksiy&theme=dark&background=1A1A1A&stroke=61DAFB&ring=61DAFB&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=CCCCCC&sideLabels=CCCCCC&dates=999999)
 
-## Activity Graph
-
-![Alex's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alex-Green-Oleksiy&theme=dark&bg_color=1A1A1A&color=61DAFB&line=61DAFB&point=FFFFFF&hide_border=true)
 
 ## Featured Projects
 
-### ReactHW
-
-> Modern React application with Vite and TypeScript
-
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 ## Current Focus
 
@@ -75,13 +61,6 @@ Passionate frontend developer with expertise in modern web technologies. Focused
 -   🔄 **Continuous Learning** - Staying updated with latest technologies
 -   🤝 **Collaboration** - Working effectively in team environments
 
-## Let's Connect
 
-Feel free to reach out for collaborations or just a friendly hello!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alekseylobkodev@ukr.net)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Alex_Green_dev)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alex-Green-Oleksiy)
 
 _Last updated: January 2025_
