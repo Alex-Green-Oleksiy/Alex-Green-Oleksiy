@@ -1,5 +1,6 @@
-<h1 style="color: #61DAFB; font-family: 'JetBrains Mono', monospace; font-size: 2.5em; text-align: center; margin: 20px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🚀 Welcome to Alex Green's Profile! 🚀</h1>
-> Frontend Developer & UI/UX Specialist
+# ⚛️ Welcome to Alex Green's Profile! ⚛️
+
+## 🔧 Frontend Developer & UI/UX Specialist 🔧
 
 | <img src="src/img/444.png" alt="Developer Setup" width="800"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | <img src="src/img/106L.gif" alt="Developer Animation" width="250"/> |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------: |
@@ -33,22 +34,6 @@ Passionate frontend developer with expertise in modern web technologies. Focused
 
 ## Featured Projects
 
-## Current Focus
-
--   🔥 **React & TypeScript** - Building scalable frontend applications
--   🎨 **UI/UX Design** - Creating intuitive user experiences
--   ⚡ **Performance** - Optimizing for speed and efficiency
--   📱 **Responsive Design** - Mobile-first development approach
--   ♿ **Accessibility** - Making web accessible to everyone
-
-## Skills & Expertise
-
-| Frontend   | Tools   | Design            |
-| ---------- | ------- | ----------------- |
-| React.js   | Git     | Figma             |
-| TypeScript | VS Code | Adobe XD          |
-| HTML5/CSS3 | Vite    | Responsive Design |
-| JavaScript | Webpack | UI/UX             |
 
 ## Development Principles
 
