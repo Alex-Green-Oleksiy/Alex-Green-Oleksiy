@@ -2,33 +2,11 @@
 
 > Frontend Developer & UI/UX Specialist
 
----
-
-<div align="center">
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-
-<div align="left">
-
 ## 🚀 Welcome to My Profile
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alekseylobkodev@ukr.net)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-
-</div>
-
-<div align="right">
-
-<img src="src/img/106L.gif" alt="Developer Animation" width="200"/>
-
-</div>
-
-</div>
-
-</div>
-
----
+| Content                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Animation                                                           |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| **🚀 Welcome to My Profile**<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)<br>[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alekseylobkodev@ukr.net)<br>[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com) | <img src="src/img/106L.gif" alt="Developer Animation" width="200"/> |
 
 ## About
 
@@ -106,7 +84,5 @@ Feel free to reach out for collaborations or just a friendly hello!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alekseylobkodev@ukr.net)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alex-Green-Oleksiy)
-
----
 
 _Last updated: January 2025_
