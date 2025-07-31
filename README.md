@@ -2,9 +2,8 @@
 
 > Frontend Developer & UI/UX Specialist
 
-<div align="center">
+<div align="right">
   <img src="src/img/106L.gif" alt="Developer Animation" width="200"/>
-  <img src="src/img/A5DU.gif" alt="Code Animation" width="200"/>
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
