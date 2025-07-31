@@ -2,8 +2,14 @@
 
 > Frontend Developer & UI/UX Specialist
 
+<div align="center">
+  <img src="src/img/106L.gif" alt="Developer Animation" width="200"/>
+  <img src="src/img/A5DU.gif" alt="Code Animation" width="200"/>
+  <img src="src/img/b2M.gif" alt="Tech Animation" width="200"/>
+</div>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alekseylobkodev@ukr.net)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
 
 ---
@@ -27,7 +33,6 @@ Passionate frontend developer with expertise in modern web technologies. Focused
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
@@ -37,7 +42,7 @@ Passionate frontend developer with expertise in modern web technologies. Focused
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Green-Oleksiy&layout=compact&theme=dark&bg_color=1A1A1A&text_color=FFFFFF&border_color=333333)
 
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=Alex-Green-Oleksiy&theme=dark&background=1A1A1A&stroke=61DAFB&ring=61DAFB&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=CCCCCC&sideLabels=CCCCCC&dates=999999)
 
 ## Activity Graph
 
@@ -53,30 +58,22 @@ Passionate frontend developer with expertise in modern web technologies. Focused
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-### Backend Development
-
-> Backend development and API integration
-
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![API](https://img.shields.io/badge/API-FF6B6B?style=for-the-badge&logo=api&logoColor=white)](https://en.wikipedia.org/wiki/API)
-
 ## Current Focus
 
 -   🔥 **React & TypeScript** - Building scalable frontend applications
 -   🎨 **UI/UX Design** - Creating intuitive user experiences
 -   ⚡ **Performance** - Optimizing for speed and efficiency
 -   📱 **Responsive Design** - Mobile-first development approach
--   🔒 **Security** - Implementing best practices for web security
 -   ♿ **Accessibility** - Making web accessible to everyone
 
 ## Skills & Expertise
 
-| Frontend   | Backend   | Tools   | Design            |
-| ---------- | --------- | ------- | ----------------- |
-| React.js   | Node.js   | Git     | Figma             |
-| TypeScript | Express   | Docker  | Adobe XD          |
-| HTML5/CSS3 | REST APIs | VS Code | Responsive Design |
-| JavaScript | Database  | Webpack | UI/UX             |
+| Frontend   | Tools   | Design            |
+| ---------- | ------- | ----------------- |
+| React.js   | Git     | Figma             |
+| TypeScript | VS Code | Adobe XD          |
+| HTML5/CSS3 | Vite    | Responsive Design |
+| JavaScript | Webpack | UI/UX             |
 
 ## Development Principles
 
@@ -91,7 +88,7 @@ Passionate frontend developer with expertise in modern web technologies. Focused
 Feel free to reach out for collaborations or just a friendly hello!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alekseylobkodev@ukr.net)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alex-Green-Oleksiy)
 
 ---
